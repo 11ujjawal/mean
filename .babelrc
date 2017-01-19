@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "es2015"
+    ],
+    "retainLines": true,
+    "plugins": [
+        "add-module-exports"
+    ]
+}
